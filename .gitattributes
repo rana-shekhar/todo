@@ -1,0 +1,9 @@
+# Ignore iOS build files
+ios/* linguist-vendored
+ios/Runner.xcodeproj/* linguist-vendored
+
+# Ignore Android build files
+android/* linguist-vendored
+
+# Ignore CMake configuration files
+**/CMakeLists.txt linguist-vendored
